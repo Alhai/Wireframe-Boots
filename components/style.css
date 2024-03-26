@@ -1,0 +1,28 @@
+.footer {
+    /* position: fixed; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #71A4A9;
+    color: black;
+    text-align: center;
+  }
+  .header {
+    /* position: fixed; */
+    width: 100%;
+    background-color: #d6eaec;
+    color: black;
+    text-align: center;
+  }
+  nav{
+    background-color: #d6eaec;;
+  }
+
+  form{
+    padding-bottom: 3rem ;
+  }
+
+  a:hover{
+    background-color: gray;
+    border-radius: 5px;
+  }
